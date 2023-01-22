@@ -1,0 +1,17 @@
+C:\Users\Luther\Source\Repos\Info collector\Info collector\obj\Debug\net6.0-windows\Info collector.csproj.AssemblyReference.cache
+C:\Users\Luther\Source\Repos\Info collector\Info collector\obj\Debug\net6.0-windows\Info_collector.Form1.resources
+C:\Users\Luther\Source\Repos\Info collector\Info collector\obj\Debug\net6.0-windows\Info collector.csproj.GenerateResource.cache
+C:\Users\Luther\Source\Repos\Info collector\Info collector\obj\Debug\net6.0-windows\Info collector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luther\Source\Repos\Info collector\Info collector\obj\Debug\net6.0-windows\Info collector.AssemblyInfoInputs.cache
+C:\Users\Luther\Source\Repos\Info collector\Info collector\obj\Debug\net6.0-windows\Info collector.AssemblyInfo.cs
+C:\Users\Luther\Source\Repos\Info collector\Info collector\obj\Debug\net6.0-windows\Info collector.csproj.CoreCompileInputs.cache
+C:\Users\Luther\Source\Repos\Info collector\Info collector\bin\Debug\net6.0-windows\Info collector.exe
+C:\Users\Luther\Source\Repos\Info collector\Info collector\bin\Debug\net6.0-windows\Info collector.deps.json
+C:\Users\Luther\Source\Repos\Info collector\Info collector\bin\Debug\net6.0-windows\Info collector.runtimeconfig.json
+C:\Users\Luther\Source\Repos\Info collector\Info collector\bin\Debug\net6.0-windows\Info collector.dll
+C:\Users\Luther\Source\Repos\Info collector\Info collector\bin\Debug\net6.0-windows\Info collector.pdb
+C:\Users\Luther\Source\Repos\Info collector\Info collector\obj\Debug\net6.0-windows\Info collector.dll
+C:\Users\Luther\Source\Repos\Info collector\Info collector\obj\Debug\net6.0-windows\refint\Info collector.dll
+C:\Users\Luther\Source\Repos\Info collector\Info collector\obj\Debug\net6.0-windows\Info collector.pdb
+C:\Users\Luther\Source\Repos\Info collector\Info collector\obj\Debug\net6.0-windows\Info collector.genruntimeconfig.cache
+C:\Users\Luther\Source\Repos\Info collector\Info collector\obj\Debug\net6.0-windows\ref\Info collector.dll
